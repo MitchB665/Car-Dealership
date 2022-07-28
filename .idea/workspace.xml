@@ -32,7 +32,7 @@
   <component name="RunManager">
     <configuration name="CarDealership" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.mitchellbarnettcardealership.CarDealership" />
-      <module name="Car Dealership" />
+      <module name="Car-Dealership" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.mitchellbarnettcardealership.*" />
