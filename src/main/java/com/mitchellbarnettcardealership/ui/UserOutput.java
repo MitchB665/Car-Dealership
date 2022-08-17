@@ -10,18 +10,9 @@ public class UserOutput {
         System.out.println("-----------------------------------------------");
         System.out.println("-----------------------------------------------");
         System.out.println();
-        System.out.println();
-        System.out.println("        What are you in the market for?        ");
-        System.out.println();
-        System.out.println("-----------------------------------------------");
-        System.out.println("          [ Car ]             [ SUV ]          ");
-        System.out.println("-----------------------------------------------");
-        System.out.println("         [ Truck ]          [ Minivan ]        ");
-        System.out.println("-----------------------------------------------");
-        // Move lines below to UserInput
-        System.out.println();
-        System.out.print(">>> ");
     }
+
+    //public static void display
 
     public static void displayMakeScreen() {
         System.out.println();
